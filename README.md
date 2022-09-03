@@ -9,7 +9,6 @@
 
 
 
-## 📈 Facts
   <summary>📊 GitHub Stats</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maverick-wolf&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
 
