@@ -1,22 +1,22 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananth243&label=Profile%20views&color=0e75b6&style=flat" alt="ananth243" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-wolf&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-wolf" /> </p>
 
 ### Hi there 👋
 
 - ⚡ I'm currently pursuing an electronics degree from BITS Pilani
-- 🏀 Love playing basketball and tennis
-- 👨‍💻 Passionate web developer whose favourite tech stack is MERN
+- 🏀 Love playing football, tennis and swimming
+- 👨‍💻 Passionate app developer whose favourite tech stack is Flutter
 - 💻 I am exploring software development
 
 
 
 ## 📈 Facts
   <summary>📊 GitHub Stats</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ananth243&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maverick-wolf&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ananth243's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth243&langs_count=10&layout=compact&theme=prussian" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="maverick-wolf's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-wolf&langs_count=10&layout=compact&theme=prussian" /></a>
   <summary>⚡Activity</summary>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="activity" src="https://github-readme-streak-stats.herokuapp.com/?user=ananth243&theme=red" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="activity" src="https://github-readme-streak-stats.herokuapp.com/?user=maverick-wolf&theme=red" /></a>
 <br />
 <br/>
 🛠 Tech Stack
@@ -35,4 +35,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananth243&theme=react-dark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=maverick-wolf&theme=react-dark)
