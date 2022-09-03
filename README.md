@@ -1,16 +1,38 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananth243&label=Profile%20views&color=0e75b6&style=flat" alt="ananth243" /> </p>
+
 ### Hi there 👋
 
-<!--
-**Maverick-Wolf/Maverick-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ I'm currently pursuing an electronics degree from BITS Pilani
+- 🏀 Love playing basketball and tennis
+- 👨‍💻 Passionate web developer whose favourite tech stack is MERN
+- 💻 I am exploring software development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📈 Facts
+  <summary>📊 GitHub Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aribantbansal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ananth243&show_icons=true&count_private=true&locale=en&layout=compact&theme=prussian" /></a>
+
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ananth243's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth243&langs_count=10&layout=compact&theme=prussian" /></a>
+  <summary>⚡Activity</summary>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="activity" src="https://github-readme-streak-stats.herokuapp.com/?user=ananth243&theme=red" /></a>
+<br />
+<br/>
+🛠 Tech Stack
+<br/>
+<br/>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Node js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananth243&theme=react-dark)
