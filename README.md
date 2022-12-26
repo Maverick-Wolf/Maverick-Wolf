@@ -36,4 +36,4 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=maverick-wolf&theme=react-dark)
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=maverick-wolf&theme=react-dark) -->
